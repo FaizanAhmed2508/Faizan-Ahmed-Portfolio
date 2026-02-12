@@ -1,2 +1,2 @@
-# Faizan-Ahmed-Portfolio
+# Faizan-Ahmed | My Portfolio
 In this repo i have showcased my portfolio which includes my skills, projects etc....
