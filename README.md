@@ -21,6 +21,3 @@ I am a Software Developer Trainee working with the Java technology stack. This p
 
 - **Traffic Management System (Web Application)**  
   Web-based project using HTML, CSS, PHP, and MySQL for structured data handling.
-
-##Contact
-- email: ahmedfaizan0412@gmail.com
